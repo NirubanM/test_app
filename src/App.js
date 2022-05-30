@@ -1,6 +1,5 @@
-import logo from './logo.svg';
+
 import './App.css';
-import ProductCard from './ProductCard';
 import Card from './Card';
 
 function App() {
